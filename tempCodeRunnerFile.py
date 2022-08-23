@@ -1,0 +1,1 @@
+query = input.recognize_google(audio, language='en-in')
