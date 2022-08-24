@@ -1,4 +1,4 @@
-#Introduction : 
+# Introduction : 
 Tired out of typing and clicking down the things? what about putting your voice to some work? 
 
 Jinny is a personal assistant that can do do following things for you:
@@ -10,7 +10,7 @@ Jinny is a personal assistant that can do do following things for you:
 * Cracking Jokes
 * Reading aloud date and time. 
 
-It uses espeak module to speak out the things and uses google's speech_recognition module to listen to the user and pyttsx module to convert it to text. 
+It uses espeak module to speak out the things, uses google's speech_recognition module to listen to the user and pyttsx module to convert it to text. 
 
 ## Sending Email 
 User speaks out the email address of the recipient, the subject of the email, the body of the email and that's all . Your email will be sent. 
