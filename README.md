@@ -34,6 +34,6 @@ using the pyjokes module, jinny can make you laugh too.
 ## Date and Time
 Simply using datetime module . 
 
-#Future Improvements 
+# Future Improvements 
 * Currently user will need to necessarliy speak some particular word in the sentence to process his/her query. 
 * Making it more interactive. 
